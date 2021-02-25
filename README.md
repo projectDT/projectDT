@@ -3,7 +3,7 @@
 <br>
 <br><br>
 <p align="center"> 
- <font size="+2">Profile Visitor count</font>
+ <font size="0">Profile Visitor count</font>
   <br>
   <img src="https://profile-counter.glitch.me/projectDT/count.svg" />
 </p>
